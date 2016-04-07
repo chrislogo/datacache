@@ -1,0 +1,20 @@
+R:4:b0
+R:4:d0
+R:4:b0
+R:4:d0
+R:4:80
+R:4:18
+R:4:80
+R:4:90
+R:4:80
+
+Ref   Access    Tag   Index Offset Result Memrefs
+----  ------- ------- ----- ------ ------ -------
+
+Simulation Summary Statistics
+-----------------------------
+Total hits	: 4
+Total misses	: 5
+Total accesses	: 9
+Hit ratio	: 0.444444
+Miss ratio	: 0.555556
